@@ -1,0 +1,14 @@
+Chatbot: Hello! I am a rule-based chatbot.
+Chatbot: Type 'bye' to exit.
+
+You: hi
+Chatbot: Hello! How can I help you?
+
+You: what is your name
+Chatbot: I am a simple rule-based chatbot.
+
+You: help
+Chatbot: I can answer basic questions like greetings and general queries.
+
+You: bye
+Chatbot: Goodbye! Have a nice day 😊
